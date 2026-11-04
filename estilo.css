@@ -1,0 +1,44 @@
+/* Estilos personalizados (alem do Bootstrap) */
+
+body {
+  background-color: #f4f6f9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+table {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #212529;
+  border-left: 5px solid #0d6efd;
+  padding-left: 10px;
+}
+
+/* mensagens de erro da validacao em JavaScript */
+.erro-campo {
+  color: #dc3545;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+footer {
+  background-color: #ffffff;
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 1.3rem;
+  }
+}
