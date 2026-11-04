@@ -1,5 +1,5 @@
 -- Banco de dados e tabela do sistema de produtos
--- Aluno: Joao Victor Mini Massagi - RA 8213731
+-- Autor: João Victor Mini
 
 CREATE DATABASE IF NOT EXISTS sistema_db
   CHARACTER SET utf8mb4
