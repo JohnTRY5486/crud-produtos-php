@@ -1,6 +1,6 @@
 # Cadastro de Produtos (CRUD) em PHP e MySQL
 
-Sistema simples de cadastro de produtos desenvolvido na disciplina de **Programação Para Web** (ADS - Claretiano).
+Sistema simples de cadastro de produtos **Programação Para Web** (ADS - Claretiano).
 
 ## Funcionalidades
 
